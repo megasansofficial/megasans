@@ -1,1 +1,0 @@
-Kurulum: ZIP içeriğini hosting public_html klasörüne yükleyin. Logo root dizinde logo.png olarak kullanılır; assets klasörü yoktur. Affiliate CTA linki: https://wref.short.gy/M1MASp
